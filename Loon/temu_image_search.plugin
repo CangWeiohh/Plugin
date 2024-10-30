@@ -10,4 +10,4 @@
 ^https://(?!agentseller\.temu\.com)(?:[a-zA-Z0-9-]+\.)*(temu|temudebug)\.com header-replace-regex x-user-info tz=Asia/Shanghai tz=America/New_York x-user-info tz=Asia%2FShanghai tz=America%2FNew_York cookie timezone=Asia/Shanghai timezone=America/New_York cookie timezone=Asia%2FShanghai timezone=America%2FNew_York
 
 [MITM]
-hostname=-agentseller.temu.com,*.temudebug.com,temudebug.com,*.temu.com,temu.com
+hostname=-agentseller.temu.com,-www.temu.com,*.temudebug.com,temudebug.com,*.temu.com,temu.com
