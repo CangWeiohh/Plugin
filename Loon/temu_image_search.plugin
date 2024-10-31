@@ -1,6 +1,5 @@
 #!name=Temu识图
 #!desc=Temu以图搜图, 修改请求头中的时区以及系统地区编码
-#!openUrl=https://cangweiohh.github.io/temu.html
 #!author=CangWeiohh
 #!homepage=https://github.com/CangWeiohh/Plugin/
 #!icon=https://aimg.kwcdn.com/upload_aimg/web/c9653751-0a91-46f1-806a-b639dd32931b.png.slim.png
